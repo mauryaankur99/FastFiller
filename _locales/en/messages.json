@@ -1,0 +1,11 @@
+﻿{
+    "appName":  {
+                    "message":  "Fastfiller"
+                },
+    "shortDesc":  {
+                      "message":  "AI auto form filler. Auto-fill any web form in 1 click using your free ChatGPT Web session or custom AI APIs with 100% privacy."
+                  },
+    "storeDesc":  {
+                      "message":  "Fastfiller is a privacy-first AI form filler. Zero-key free mode with ChatGPT Web or bring your own API key (DeepSeek, OpenAI, Anthropic, Google Gemini, Ollama). No data ever leaves your machine to external servers.\n\nPaste any text — a short bio, resume snippet, or just your name and email — and Fastfiller fills the entire web form in one click.\n\nHow it works:\n1. Open Fastfiller and choose your AI engine (ChatGPT Web session or custom API).\n2. Paste your information in any format.\n3. Click Fill Form.\n4. AI reads the form fields and fills them with the right values.\n\nKey features:\n- 100% Private: All processing runs client-side or in your direct API session\n- Zero-Key Support: Works with free ChatGPT Web session directly\n- Custom Endpoint: Compatible with any OpenAI-compatible API\n- Smart Select \u0026 Checkbox Matching: Handles native selects, ARIA checkboxes, radios, Google Forms\n- 1-Click Undo: Safely restore any filled form with one click\n- Save multiple templates: Work, personal, job hunting, or project-specific\n\nPaste once, fill everywhere. Fastfiller gives you speed, privacy, and full autonomy."
+                  }
+}

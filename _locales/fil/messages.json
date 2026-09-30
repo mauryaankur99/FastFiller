@@ -1,0 +1,11 @@
+﻿{
+    "appName":  {
+                    "message":  "Fastfiller"
+                },
+    "shortDesc":  {
+                      "message":  "Ginagamit ng Fastfiller ang AI para punan ang anumang web form mula sa iyong teksto sa isang click. Makatipid ng oras sa mga aplikasyon at signup."
+                  },
+    "storeDesc":  {
+                      "message":  "Ang Fastfiller ay isang AI-powered na form filler para sa Chrome. I-paste ang anumang teksto — maikling bio, bahagi ng resume, o ang iyong pangalan at email — at pupunuin ng Fastfiller ang buong web form sa isang click.\n\nHindi tulad ng mga tradisyonal na autofill tool na nangangailangan ng mahigpit na profile, binabasa ng AI ng Fastfiller ang konteksto ng iyong teksto at ini-map ito sa mga field na lalabas sa pahina.\n\nParaan ng paggamit:\n1. Buksan ang Fastfiller at i-paste ang iyong impormasyon sa anumang format.\n2. I-click ang Punan ang form.\n3. Binabasa ng AI ang mga field ng form at pinupunan ang mga ito ng tamang halaga.\n\nMga pangunahing tampok:\n- Naiintindihan ng AI ang konteksto ng form, hindi lang ang mga pangalan ng field\n- I-paste ang anumang libreng teksto: walang mahigpit na profile na kailangang panatilihin\n- Mag-save ng maraming template — trabaho, personal, o para sa partikular na proyekto\n- Gumagana sa anumang web form kabilang ang mga naka-embed na iframe\n- Isang click para punan ang buong form\n\nKung saan nakakatipid ng oras ang Fastfiller:\n- Mga form ng aplikasyon sa trabaho — LinkedIn, Indeed, mga career page ng kumpanya\n- Mga form ng pagpaparehistro at pag-sign up ng account\n- Mga form ng checkout at shipping\n- Mga form ng pakikipag-ugnayan at pagtatanong\n- Mga form ng survey at questionnaire\n- Mga form ng pagkumpleto ng profile at account\n\nI-paste nang isang beses, punan kahit saan. I-install ang Fastfiller at itigil ang pag-type ng parehong impormasyon sa bawat bagong site."
+                  }
+}

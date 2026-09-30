@@ -1,0 +1,57 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "icon-16.png",
+         "32": "icon-32.png",
+         "34": "icon-34-4.png",
+         "48": "icon-48.png",
+         "128": "icon-128.png"
+      },
+      "default_popup": "src/popup/index.html"
+   },
+   "background": {
+      "service_worker": "src/background/index.js",
+      "type": "module"
+   },
+   "content_scripts": [
+      {
+         "all_frames": true,
+         "js": [ "src/content/index.js" ],
+         "matches": [ "<all_urls>" ]
+      }
+   ],
+   "default_locale": "en",
+   "description": "__MSG_shortDesc__",
+   "host_permissions": [
+      "<all_urls>"
+   ],
+   "icons": {
+      "16": "icon-16.png",
+      "32": "icon-32.png",
+      "34": "icon-34-4.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+   },
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "permissions": [ "activeTab", "storage", "tabs", "sidePanel", "scripting", "contextMenus", "declarativeNetRequest" ],
+   "commands": {
+      "fill-active-form": {
+         "suggested_key": {
+            "default": "Alt+Shift+F",
+            "mac": "Alt+Shift+F"
+         },
+         "description": "Auto-fill current webpage form with active Fastfiller profile"
+      }
+   },
+   "side_panel": {
+      "default_path": "src/sidepanel/index.html"
+   },
+   "author": "Maurya Ankur, Singh Sanjiv (aeigs.com)",
+   "homepage_url": "https://aeigs.com",
+   "version": "1.0.0",
+   "web_accessible_resources": [ {
+      "matches": [ "<all_urls>" ],
+      "resources": [ "icon-128.png", "icon-48.png", "icon-34-4.png", "icon-32.png", "icon-16.png", "src/help/index.html", "assets/*" ]
+   } ]
+}

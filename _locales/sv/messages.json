@@ -1,0 +1,11 @@
+﻿{
+    "appName":  {
+                    "message":  "Fastfiller"
+                },
+    "shortDesc":  {
+                      "message":  "Fastfiller använder AI för att fylla i webbformulär från din text med ett klick. Spara tid på jobbansökningar, registreringar och kassor."
+                  },
+    "storeDesc":  {
+                      "message":  "Fastfiller är en AI-driven formulärfyllare för Chrome. Klistra in valfri text — en kort bio, ett CV-utdrag eller bara ditt namn och e-post — och Fastfiller fyller i hela webbformuläret med ett klick.\n\nTill skillnad från traditionella autofyllverktyg som kräver en stel profil läser Fastfiller\u0027s AI kontexten i din text och mappar den till de fält som visas på sidan.\n\nSå här fungerar det:\n1. Öppna Fastfiller och klistra in din information i valfritt format.\n2. Klicka på Fyll i formulär.\n3. AI läser formulärfälten och fyller i dem med rätt värden.\n\nNyckelfunktioner:\n- AI förstår formulärkontext, inte bara fältnamn\n- Klistra in valfri fritext: ingen stel profil att underhålla\n- Spara flera mallar — arbete, personlig eller projektspecifik\n- Fungerar på alla webbformulär inklusive inbäddade iframes\n- Ett klick för att fylla i hela formuläret\n\nDär Fastfiller sparar din tid:\n- Jobbansökningsformulär — LinkedIn, Indeed, företagets karriärsidor\n- Kontoregistrering och registreringsformulär\n- Kassor och leveransformulär\n- Kontakt- och förfrågningsformulär\n- Enkät- och frågeformulär\n- Profil- och kontofullbordningsformulär\n\nKlistra in en gång, fyll i överallt. Installera Fastfiller och sluta skriva in samma information på varje ny webbplats."
+                  }
+}

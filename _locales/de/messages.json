@@ -1,0 +1,11 @@
+﻿{
+    "appName":  {
+                    "message":  "Fastfiller"
+                },
+    "shortDesc":  {
+                      "message":  "Fastfiller nutzt KI, um Webformulare per Klick aus Ihrem Text auszufüllen. Spart Zeit bei Bewerbungen, Anmeldungen \u0026 Bestellungen."
+                  },
+    "storeDesc":  {
+                      "message":  "Fastfiller ist ein KI-gestützter Formularausfüller für Chrome. Fügen Sie beliebigen Text ein – eine kurze Bio, einen Lebenslaufausschnitt oder nur Ihren Namen und Ihre E-Mail – und Fastfiller füllt das gesamte Webformular mit einem Klick aus.\n\nIm Gegensatz zu herkömmlichen Autofill-Tools, die ein starres Profil erfordern, liest die KI von Fastfiller den Kontext Ihres Textes und ordnet ihn den Feldern auf der Seite zu.\n\nSo funktioniert es:\n1. Öffnen Sie Fastfiller und fügen Sie Ihre Informationen in beliebigem Format ein.\n2. Klicken Sie auf „Formular ausfüllen“.\n3. Die KI liest die Formularfelder und füllt sie mit den richtigen Werten aus.\n\nHauptfunktionen:\n- KI versteht Formularkontext, nicht nur Feldnamen\n- Fügen Sie beliebigen Freitext ein: kein starres Profil nötig\n- Speichern Sie mehrere Vorlagen – beruflich, privat oder projektspezifisch\n- Funktioniert bei jedem Webformular, einschließlich eingebetteter iFrames\n- Ein Klick zum Ausfüllen des gesamten Formulars\n\nWo Fastfiller Ihnen Zeit spart:\n- Bewerbungsformulare – LinkedIn, Indeed, Karriereseiten von Unternehmen\n- Kontoregistrierungs- und Anmeldeformulare\n- Checkout- und Versandformulare\n- Kontakt- und Anfrageformulare\n- Umfragen und Fragebögen\n- Profil- und Kontoergänzungsformulare\n\nEinmal einfügen, überall ausfüllen. Installieren Sie Fastfiller und hören Sie auf, dieselben Informationen auf jeder neuen Website neu einzugeben."
+                  }
+}

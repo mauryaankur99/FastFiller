@@ -1,0 +1,11 @@
+﻿{
+    "appName":  {
+                    "message":  "Fastfiller"
+                },
+    "shortDesc":  {
+                      "message":  "Fastfiller usa IA para rellenar cualquier formulario web desde tu texto en un clic. Ahorra tiempo en solicitudes de empleo, registros y compras."
+                  },
+    "storeDesc":  {
+                      "message":  "Fastfiller es un rellenador de formularios con IA para Chrome. Pega cualquier texto — una breve bio, un fragmento de currículum o solo tu nombre y correo — y Fastfiller rellena el formulario web completo en un clic.\n\nA diferencia de las herramientas tradicionales de autocompletar que requieren un perfil rígido, la IA de Fastfiller lee el contexto de tu texto y lo asigna a los campos que aparecen en la página.\n\nCómo funciona:\n1. Abre Fastfiller y pega tu información en cualquier formato.\n2. Haz clic en Rellenar formulario.\n3. La IA lee los campos del formulario y los rellena con los valores correctos.\n\nCaracterísticas clave:\n- La IA entiende el contexto del formulario, no solo los nombres de los campos\n- Pega cualquier texto libre: no hay perfil rígido que mantener\n- Guarda múltiples plantillas — trabajo, personal o específicas de proyecto\n- Funciona en cualquier formulario web, incluidos iframes integrados\n- Un clic para rellenar el formulario completo\n\nDónde Fastfiller te ahorra tiempo:\n- Formularios de solicitud de empleo — LinkedIn, Indeed, páginas de carreras corporativas\n- Formularios de registro de cuenta e inscripción\n- Formularios de pago y envío\n- Formularios de contacto y consulta\n- Formularios de encuesta y cuestionario\n- Formularios de completar perfil y cuenta\n\nPega una vez, rellena en todas partes. Instala Fastfiller y deja de reescribir la misma información en cada nuevo sitio."
+                  }
+}

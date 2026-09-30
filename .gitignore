@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# OS & Temp Files
+.DS_Store
+Thumbs.db
+*.log
+
+# Extension Packaging & Archives
+*.crx
+*.pem
+*.zip
+*.tar.gz
+dist/
+build/
+temp/
+
+# Environment & Local Secrets
+.env
+.env.local
+
+# IDE & AI Tool Caches
+.claude/
+.vscode/
+.idea/
+.astro/
+
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+/graft/

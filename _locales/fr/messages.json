@@ -1,0 +1,11 @@
+﻿{
+    "appName":  {
+                    "message":  "Fastfiller"
+                },
+    "shortDesc":  {
+                      "message":  "Fastfiller utilise l\u0027IA pour remplir tout formulaire web en un clic depuis votre texte. Gagnez du temps sur les candidatures et inscriptions."
+                  },
+    "storeDesc":  {
+                      "message":  "Fastfiller est un remplisseur de formulaires alimenté par l\u0027IA pour Chrome. Collez n\u0027importe quel texte — une courte bio, un extrait de CV ou juste votre nom et votre e-mail — et Fastfiller remplit l\u0027intégralité du formulaire web en un clic.\n\nContrairement aux outils de remplissage automatique traditionnels qui nécessitent un profil rigide, l\u0027IA de Fastfiller lit le contexte de votre texte et le mappe aux champs présents sur la page.\n\nComment ça fonctionne :\n1. Ouvrez Fastfiller et collez vos informations dans n\u0027importe quel format.\n2. Cliquez sur Remplir le formulaire.\n3. L\u0027IA lit les champs du formulaire et les remplit avec les bonnes valeurs.\n\nFonctionnalités clés :\n- L\u0027IA comprend le contexte du formulaire, pas seulement les noms de champs\n- Collez n\u0027importe quel texte libre : aucun profil rigide à maintenir\n- Enregistrez plusieurs modèles — professionnel, personnel ou spécifique à un projet\n- Fonctionne sur tout formulaire web, y compris les iframes intégrés\n- Un clic pour remplir l\u0027intégralité du formulaire\n\nOù Fastfiller vous fait gagner du temps :\n- Formulaires de candidature — LinkedIn, Indeed, pages carrières d\u0027entreprises\n- Formulaires d\u0027inscription et de création de compte\n- Formulaires de paiement et d\u0027expédition\n- Formulaires de contact et de demande\n- Formulaires d\u0027enquête et de questionnaire\n- Formulaires de complétion de profil et de compte\n\nCollez une fois, remplissez partout. Installez Fastfiller et arrêtez de ressaisir les mêmes informations sur chaque nouveau site."
+                  }
+}

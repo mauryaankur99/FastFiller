@@ -1,0 +1,11 @@
+﻿{
+    "appName":  {
+                    "message":  "Fastfiller"
+                },
+    "shortDesc":  {
+                      "message":  "Fastfiller dùng AI điền bất kỳ form web nào từ văn bản của bạn chỉ một cú nhấp. Tiết kiệm thời gian nộp hồ sơ, đăng ký và thanh toán."
+                  },
+    "storeDesc":  {
+                      "message":  "Fastfiller là công cụ điền form bằng AI dành cho Chrome. Dán bất kỳ văn bản nào — tiểu sử ngắn, đoạn CV, hoặc chỉ tên và email của bạn — và Fastfiller sẽ điền toàn bộ form web chỉ trong một cú nhấp.\n\nKhác với các công cụ autofill truyền thống yêu cầu hồ sơ cứng nhắc, AI của Fastfiller đọc ngữ cảnh văn bản của bạn và ánh xạ sang các trường xuất hiện trên trang.\n\nCách hoạt động:\n1. Mở Fastfiller và dán thông tin của bạn theo bất kỳ định dạng nào.\n2. Nhấp vào Điền form.\n3. AI đọc các trường form và điền chúng với giá trị chính xác.\n\nTính năng chính:\n- AI hiểu ngữ cảnh form, không chỉ tên trường\n- Dán bất kỳ văn bản tự do nào: không cần hồ sơ cứng nhắc\n- Lưu nhiều mẫu — công việc, cá nhân hoặc theo dự án\n- Hoạt động trên mọi form web bao gồm iframe nhúng\n- Một cú nhấp để điền toàn bộ form\n\nFastfiller tiết kiệm thời gian cho bạn ở đâu:\n- Form nộp đơn xin việc — LinkedIn, Indeed, trang tuyển dụng của công ty\n- Form đăng ký tài khoản và đăng nhập\n- Form thanh toán và giao hàng\n- Form liên hệ và yêu cầu\n- Form khảo sát và bảng câu hỏi\n- Form hoàn thành hồ sơ và tài khoản\n\nDán một lần, điền khắp nơi. Cài đặt Fastfiller và ngừng nhập lại thông tin tương tự trên mỗi trang web mới."
+                  }
+}

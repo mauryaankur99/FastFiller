@@ -1,0 +1,11 @@
+﻿{
+    "appName":  {
+                    "message":  "Fastfiller"
+                },
+    "shortDesc":  {
+                      "message":  "Fastfiller gebruikt AI om elk webformulier vanuit je tekst in één klik in te vullen. Bespaar tijd bij sollicitaties, aanmeldingen en aankopen."
+                  },
+    "storeDesc":  {
+                      "message":  "Fastfiller is een AI-gestuurde formulierinvuller voor Chrome. Plak willekeurige tekst — een korte bio, een fragment van je cv of alleen je naam en e-mail — en Fastfiller vult het hele webformulier in één klik in.\n\nIn tegenstelling tot traditionele autofill-tools die een star profiel vereisen, leest de AI van Fastfiller de context van je tekst en koppelt deze aan de velden op de pagina.\n\nHoe het werkt:\n1. Open Fastfiller en plak je informatie in elk gewenst formaat.\n2. Klik op Formulier invullen.\n3. AI leest de formuliervelden en vult ze in met de juiste waarden.\n\nBelangrijkste functies:\n- AI begrijpt de formuliercontext, niet alleen veldnamen\n- Plak willekeurige vrije tekst: geen star profiel om bij te houden\n- Sla meerdere sjablonen op — werk, persoonlijk of projectspecifiek\n- Werkt op elk webformulier, inclusief ingesloten iframes\n- Één klik om het hele formulier in te vullen\n\nWaar Fastfiller je tijd bespaart:\n- Sollicitatieformulieren — LinkedIn, Indeed, bedrijfscarrièrepagina\u0027s\n- Accountregistratie- en aanmeldingsformulieren\n- Checkout- en verzendformulieren\n- Contact- en aanvraagformulieren\n- Enquête- en vragenlijstformulieren\n- Profiel- en accountvoltooiingsformulieren\n\nÉénmaal plakken, overal invullen. Installeer Fastfiller en stop met het opnieuw typen van dezelfde informatie op elke nieuwe site."
+                  }
+}

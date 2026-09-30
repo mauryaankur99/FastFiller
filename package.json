@@ -1,0 +1,14 @@
+{
+  "name": "fastfiller",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "author": "Maurya Ankur, Singh Sanjiv (aeigs.com)",
+  "homepage": "https://aeigs.com",
+  "scripts": {
+    "test": "node --experimental-vm-modules test/api-providers.test.mjs && node --experimental-vm-modules test/robustness.test.mjs && node --experimental-vm-modules test/google-forms.test.mjs && node --experimental-vm-modules test/dropdown-matching.test.mjs && node --experimental-vm-modules test/storage.test.mjs && node --experimental-vm-modules test/chatgpt-session.test.mjs && node --experimental-vm-modules test/deepseek-session.test.mjs && node --experimental-vm-modules test/detection-hardening.test.mjs && node --experimental-vm-modules test/dryrun-review.test.mjs && node --experimental-vm-modules test/watermark-integrity.test.mjs && node --experimental-vm-modules test/sha3.test.mjs && node --experimental-vm-modules test/background-job-persistence.test.mjs && node --experimental-vm-modules test/update-checker.test.mjs"
+  },
+  "dependencies": {
+    "js-sha3": "^0.13.0"
+  }
+}

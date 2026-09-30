@@ -1,0 +1,11 @@
+﻿{
+    "appName":  {
+                    "message":  "Fastfiller"
+                },
+    "shortDesc":  {
+                      "message":  "Fastfiller menggunakan AI untuk mengisi formulir web dari teks Anda dalam satu klik. Hemat waktu untuk lamaran kerja, pendaftaran \u0026 checkout."
+                  },
+    "storeDesc":  {
+                      "message":  "Fastfiller adalah pengisi formulir berbasis AI untuk Chrome. Tempel teks apa saja — bio singkat, cuplikan resume, atau sekadar nama dan email Anda — dan Fastfiller mengisi seluruh formulir web dalam satu klik.\n\nBerbeda dari alat autofill tradisional yang memerlukan profil kaku, AI Fastfiller membaca konteks teks Anda dan memetakannya ke bidang apa pun yang muncul di halaman.\n\nCara kerjanya:\n1. Buka Fastfiller dan tempelkan informasi Anda dalam format apa pun.\n2. Klik Isi formulir.\n3. AI membaca kolom formulir dan mengisinya dengan nilai yang tepat.\n\nFitur utama:\n- AI memahami konteks formulir, bukan hanya nama kolom\n- Tempel teks bebas apa saja: tidak perlu profil kaku\n- Simpan beberapa template — pekerjaan, pribadi, atau spesifik proyek\n- Berfungsi pada formulir web apa pun termasuk iframe yang disematkan\n- Satu klik untuk mengisi seluruh formulir\n\nDi mana Fastfiller menghemat waktu Anda:\n- Formulir lamaran kerja — LinkedIn, Indeed, halaman karier perusahaan\n- Formulir pendaftaran dan pembuatan akun\n- Formulir checkout dan pengiriman\n- Formulir kontak dan pertanyaan\n- Formulir survei dan kuesioner\n- Formulir pelengkap profil dan akun\n\nTempel sekali, isi di mana saja. Pasang Fastfiller dan berhenti mengetik ulang informasi yang sama di setiap situs baru."
+                  }
+}

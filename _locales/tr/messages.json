@@ -1,0 +1,11 @@
+﻿{
+    "appName":  {
+                    "message":  "Fastfiller"
+                },
+    "shortDesc":  {
+                      "message":  "Fastfiller, metninizden herhangi bir web formunu tek tıklamayla doldurmak için yapay zeka kullanır. İş başvurularında, kayıtlarda ve ödemelerde zaman kazanın."
+                  },
+    "storeDesc":  {
+                      "message":  "Fastfiller, Chrome için yapay zeka destekli bir form doldurucudur. Herhangi bir metin yapıştırın — kısa bir biyografi, özgeçmiş bölümü veya yalnızca adınız ve e-postanız — Fastfiller tüm web formunu tek tıklamayla doldurur.\n\nKatı bir profil gerektiren geleneksel otomatik doldurma araçlarının aksine, Fastfiller\u0027nun yapay zekası metninizin bağlamını okur ve sayfada görünen alanlara eşler.\n\nNasıl çalışır:\n1. Fastfiller\u0027yu açın ve bilgilerinizi herhangi bir formatta yapıştırın.\n2. Formu doldur\u0027a tıklayın.\n3. Yapay zeka form alanlarını okur ve doğru değerlerle doldurur.\n\nTemel özellikler:\n- Yapay zeka yalnızca alan adlarını değil, form bağlamını anlar\n- Herhangi bir serbest metin yapıştırın: katı profil gerekmez\n- Birden fazla şablon kaydedin — iş, kişisel veya projeye özgü\n- Gömülü iframe\u0027ler dahil tüm web formlarında çalışır\n- Tüm formu doldurmak için tek tıklama\n\nFastfiller\u0027nun zamanınızı kurtardığı yerler:\n- İş başvuru formları — LinkedIn, Indeed, şirket kariyer sayfaları\n- Hesap kaydı ve üyelik formları\n- Ödeme ve kargo formları\n- İletişim ve bilgi talep formları\n- Anket ve soru formu formları\n- Profil ve hesap tamamlama formları\n\nBir kez yapıştırın, her yerde doldurun. Fastfiller\u0027yu yükleyin ve her yeni sitede aynı bilgileri yeniden yazmayı bırakın."
+                  }
+}

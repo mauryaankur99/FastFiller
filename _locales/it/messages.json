@@ -1,0 +1,11 @@
+﻿{
+    "appName":  {
+                    "message":  "Fastfiller"
+                },
+    "shortDesc":  {
+                      "message":  "Fastfiller usa l\u0027IA per compilare qualsiasi modulo web dal tuo testo in un clic. Risparmia tempo su candidature, registrazioni e acquisti."
+                  },
+    "storeDesc":  {
+                      "message":  "Fastfiller è un compilatore di moduli basato sull\u0027IA per Chrome. Incolla qualsiasi testo — una breve bio, un estratto del CV o solo il tuo nome e l\u0027email — e Fastfiller compila l\u0027intero modulo web con un clic.\n\nA differenza dei tradizionali strumenti di compilazione automatica che richiedono un profilo rigido, l\u0027IA di Fastfiller legge il contesto del tuo testo e lo mappa ai campi presenti nella pagina.\n\nCome funziona:\n1. Apri Fastfiller e incolla le tue informazioni in qualsiasi formato.\n2. Fai clic su Compila modulo.\n3. L\u0027IA legge i campi del modulo e li compila con i valori corretti.\n\nFunzionalità principali:\n- L\u0027IA comprende il contesto del modulo, non solo i nomi dei campi\n- Incolla qualsiasi testo libero: nessun profilo rigido da mantenere\n- Salva più modelli — lavoro, personale o specifici per progetto\n- Funziona su qualsiasi modulo web, inclusi gli iframe incorporati\n- Un clic per compilare l\u0027intero modulo\n\nDove Fastfiller ti fa risparmiare tempo:\n- Moduli di candidatura — LinkedIn, Indeed, pagine carriere aziendali\n- Moduli di registrazione account e iscrizione\n- Moduli di pagamento e spedizione\n- Moduli di contatto e richiesta\n- Moduli di sondaggio e questionario\n- Moduli di completamento profilo e account\n\nIncolla una volta, compila ovunque. Installa Fastfiller e smetti di reinserire le stesse informazioni su ogni nuovo sito."
+                  }
+}

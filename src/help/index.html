@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome to Fastfiller!</title>
+    <link rel="stylesheet" href="/assets/index-aMycy4lx.css">
+    <style>
+      a { color: inherit; text-decoration: underline; }
+      a:hover { opacity: 0.8; }
+
+      .brand-group {
+        display: inline-flex;
+        align-items: center;
+        gap: 3px;
+        min-width: 0;
+      }
+      .brand-icon {
+        width: 38px;
+        height: 38px;
+        object-fit: contain;
+        flex-shrink: 0;
+        display: block;
+        border-radius: 4px;
+        transition: transform 160ms ease, filter 160ms ease;
+      }
+      [data-theme="dark"] .brand-icon {
+        filter: drop-shadow(0 2px 10px rgba(56, 189, 248, 0.45)) drop-shadow(0 0 14px rgba(255, 122, 0, 0.25));
+      }
+      [data-theme="light"] .brand-icon {
+        filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.12));
+      }
+      .brand-title {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        min-width: 0;
+      }
+      .brand-wordmark {
+        display: inline-flex;
+        align-items: baseline;
+        gap: 1.5px;
+        font-size: 20px;
+        font-weight: 850;
+        font-style: italic;
+        letter-spacing: -0.5px;
+        line-height: 1;
+        user-select: none;
+      }
+      .brand-text-fast {
+        transition: color 160ms ease, text-shadow 160ms ease;
+      }
+      [data-theme="dark"] .brand-text-fast {
+        color: #ffffff;
+        text-shadow: 0 0 14px rgba(56, 189, 248, 0.35);
+      }
+      [data-theme="light"] .brand-text-fast {
+        color: #0f172a;
+      }
+      .brand-text-filler {
+        background: linear-gradient(95deg, #ff8a00 0%, #ff3b69 45%, #d900ff 85%, #9d00ff 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        transition: filter 160ms ease;
+      }
+      [data-theme="dark"] .brand-text-filler {
+        filter: drop-shadow(0 0 10px rgba(217, 0, 255, 0.45));
+      }
+      [data-theme="light"] .brand-text-filler {
+        filter: drop-shadow(0 1px 2px rgba(217, 0, 255, 0.2));
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      .nav-chip {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+        padding: 5px 11px;
+        border-radius: 6px;
+        font-size: 11.5px;
+        font-weight: 600;
+        background: var(--bg-subtle);
+        border: 1px solid var(--border-color);
+        color: var(--text-secondary);
+        text-decoration: none !important;
+        transition: all 120ms ease;
+      }
+      .nav-chip:hover {
+        background: var(--bg-card);
+        color: var(--text-primary);
+        border-color: var(--border-medium);
+        transform: translateY(-1px);
+      }
+
+      @media (max-width: 600px) {
+        .help-header-bar {
+          flex-direction: column;
+          align-items: flex-start !important;
+          gap: 16px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script src="/src/help/index.js"></script>
+  </body>
+</html>
