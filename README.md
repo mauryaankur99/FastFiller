@@ -13,6 +13,8 @@
   <img src="Screenshot/09_web_practice_form_target.png" alt="FastFiller 1-Click Form Autofill in Action" width="850">
 </p>
 
+> ⚡ **Speed & Performance Note:** The screenshot above demonstrates **Zero-Key Web Session AI** (`~9.7s` due to browser tab session bridge with zero API charges). When using direct fast cloud APIs like **Groq (~300ms)** or **Google Gemini 3.5 Flash-Lite**, form discovery, mapping, and DOM injection completes in just **1 to 2 seconds maximum**!
+
 ---
 
 ## 🌟 AI Model Architecture

@@ -168,6 +168,11 @@ Connect any commercial or open-source inference endpoint:
 6. **Commercial AI APIs:** Direct integrations with OpenAI (`gpt-4o-mini`, `gpt-4o`), Anthropic (`claude-3-5-sonnet-latest`), DeepSeek (`deepseek-chat`, `deepseek-reasoner`), NVIDIA NIM, and Meta/Together AI.
 7. **Custom BYOK Gateway:** Add any custom OpenAI-compatible endpoint URL, API key, and model identifier to connect LM Studio, vLLM, private self-hosted servers, or corporate proxies.
 
+> [!NOTE]
+> **Understanding Inference Speed & Latency:**
+> - **Zero-Key Web Sessions (ChatGPT / DeepSeek Web):** Takes `~8–10s` (as shown in the live demonstration: `9.7s`) because the extension coordinates through an active browser tab session without consuming API credits or requiring developer accounts.
+> - **Direct Fast Cloud APIs (Groq, Gemini 3.5 Flash-Lite, OpenRouter):** Completes in **sub-second to 1–2 seconds maximum** (Groq cloud inference runs at ~300ms). Direct HTTP REST streaming eliminates browser tab synchronization overhead for near-instant form completion.
+
 ---
 
 ## 6. 📊 Model Management & Latency Diagnostics
