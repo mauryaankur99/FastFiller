@@ -10,7 +10,7 @@
 > **FastFiller** is an open-source, client-first browser extension that instantly maps and fills complex web forms using AI. Works across job portals (Workday, Greenhouse, Lever, Ashby, LinkedIn), Google Forms, government applications, registration portals, and custom corporate SPAs.
 
 <p align="center">
-  <img src="Screenshot/09_web_practice_form_target.png" alt="FastFiller Live Form Detection" width="850">
+  <img src="Screenshot/09_web_practice_form_target.png" alt="FastFiller 1-Click Form Autofill in Action" width="850">
 </p>
 
 ---
