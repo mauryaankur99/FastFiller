@@ -11,6 +11,7 @@ Thumbs.db
 *.pem
 *.zip
 *.tar.gz
+*.mp4
 dist/
 build/
 temp/
