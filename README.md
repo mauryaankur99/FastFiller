@@ -122,11 +122,12 @@ npm test
 
 ## 🛡️ Privacy & Security Guarantee
 
-FastFiller was built from day one with a strict privacy-first architecture:
+FastFiller is built from day one with a strict privacy-first, zero-knowledge architecture:
 
-- **100% Client-Side:** No telemetry, no intermediate proxies, and no external tracking servers.
-- **Zero Data Harvesting:** Your data, prompts, profiles, and form contents are never collected or stored anywhere outside your own local browser storage (`chrome.storage.local`).
-- **Sensitive Field Guard:** FastFiller automatically detects and ignores credit card numbers, CVV codes, passwords, PIN codes, SSNs, and CAPTCHAs.
+- **Zero FastFiller Servers:** Zero telemetry, zero intermediate proxies, and zero external databases. We do not track, collect, or monetize your activity.
+- **Direct & Encrypted AI Dispatch:** Profile data, prompts, and form metadata go directly and encrypted (TLS/HTTPS) only to your chosen AI provider (OpenAI, Groq, Google, DeepSeek), or stay **100% local on your machine** when using **Local Ollama**.
+- **Local Browser Storage:** All saved persona profiles, dynamic guidelines, and settings are strictly confined to your own device storage (`chrome.storage.local`).
+- **Sensitive Field Guard:** FastFiller automatically detects and ignores credit card numbers, CVV codes, passwords, PIN codes, SSNs, and CAPTCHAs on web pages.
 
 ---
 

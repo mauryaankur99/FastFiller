@@ -10,6 +10,8 @@ FastFiller is strictly client-only. It contains:
 
 All API keys, profile templates, and configuration options are saved directly in your browser's sandboxed `chrome.storage.local`. Non-sensitive prompt payloads travel directly from your browser to your selected AI endpoint under that provider's privacy policy.
 
+> 🔒 **Sensitive Data Recommendation:** FastFiller automatically excludes passwords and credit card fields from being filled on web pages. Do not paste national ID numbers (such as SSN, Aadhaar, or PAN) into profile resume text unless connecting to **Local Ollama** (which guarantees 100% offline, on-device inference with zero network transmission).
+
 ---
 
 ## 🔒 Reporting a Security Vulnerability
