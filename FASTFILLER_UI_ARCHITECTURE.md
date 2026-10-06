@@ -1,34 +1,34 @@
 # FastFiller UI & Architecture Specification (100% Screenshot Verified)
 
-This document establishes the verified UI structure, element hierarchy, visual tokens, and state transition workflows for **FastFiller**, derived directly from the 14 real extension screenshots in `D:\All Project\FastFiller\Screenshot\`.
+This document establishes the verified UI structure, element hierarchy, visual tokens, and state transition workflows for **FastFiller**, derived directly from the 14 real extension screenshots in `Screenshot/`.
 
 ---
 
 ## 1. Interaction Flow & State Machine
 
 ```mermaid
-graph TD
-    A[Target Web Form: ToolsQA Practice Form 12 Fields] --> B[FastFiller Sidebar / Popup Mode]
+flowchart TD
+    A["Target Web Form: ToolsQA Practice Form (12 Fields)"] --> B["FastFiller Sidebar / Popup Mode"]
     
-    B -->|Click ⚙ Settings or 'Switch ▾'| C[Settings & AI Engine]
-    C -->|Tab 1: AI Engine| C1[Web Session AI: ChatGPT / DeepSeek Free]
-    C -->|Switch to BYOK| C2[Custom AI API: Groq ~300ms / Gemini / Claude / Ollama]
-    C -->|Tab 2: System Prompt| C3[System Prompt Editor: 1896 chars strict JSON]
+    B -->|"Click Settings or Switch"| C["Settings & AI Engine"]
+    C -->|"Tab 1: AI Engine"| C1["Web Session AI: ChatGPT / DeepSeek Free"]
+    C -->|"Switch to BYOK"| C2["Custom AI API: Groq / Gemini / Claude / Ollama"]
+    C -->|"Tab 2: System Prompt"| C3["System Prompt Editor: Strict JSON Instructions"]
     
-    B -->|Click '◎ 12 fields detected · Inspect'| D[Detected Fields 12 Modal]
+    B -->|"Click Inspect"| D["Detected Fields Modal (12 Fields)"]
     
-    B -->|Click 'Manage Profiles'| E[Manage Fill Profiles 8 Cards]
-    E -->|Click '+ New Profile'| E1[Create New Profile Modal]
+    B -->|"Click Manage Profiles"| E["Manage Fill Profiles (8 Cards)"]
+    E -->|"Click New Profile"| E1["Create New Profile Modal"]
     
-    B --> F{Review mapped values checkbox?}
+    B --> F{"Review mapped values checkbox?"}
     
-    F -->|CHECKED [✓]| G[Click '⚡ Auto-fill Web Form']
-    G --> H[Pre-Fill Field Review Canvas]
-    H -->|User edits / verifies 12 fields inline| H
-    H -->|Click '✓ Confirm & Inject 12'| I[Instant Form Autofill with Highlighting]
+    F -->|"Checked (Enabled)"| G["Click Auto-fill Web Form"]
+    G --> H["Pre-Fill Field Review Canvas"]
+    H -->|"Inline edits / field verification"| H
+    H -->|"Click Confirm & Inject"| I["Instant Form Autofill with Visual Highlights"]
     
-    F -->|UNCHECKED [ ]| J[Click '⚡ Auto-fill Web Form']
-    J -->|Bypasses review drawer completely| I
+    F -->|"Unchecked (Disabled)"| J["Click Auto-fill Web Form"]
+    J -->|"Bypasses review drawer completely"| I
 ```
 
 ---
