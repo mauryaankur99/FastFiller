@@ -10,10 +10,13 @@
 > **FastFiller** is an open-source, client-first browser extension that instantly maps and fills complex web forms using AI. Works across job portals (Workday, Greenhouse, Lever, Ashby, LinkedIn), Google Forms, government applications, registration portals, and custom corporate SPAs.
 
 <p align="center">
-  <img src="Screenshot/09_web_practice_form_target.png" alt="FastFiller 1-Click Form Autofill in Action" width="850">
+  <img src="assets/FastFiller_Action.gif" alt="FastFiller 1-Click Form Autofill in Action" width="850" style="max-width: 100%; border-radius: 12px; border: 1px solid #30363d; box-shadow: 0 8px 30px rgba(0,0,0,0.5);">
+</p>
+<p align="center">
+  <a href="assets/FastFiller_Promo.mp4"><b>🎬 Watch Full 30s 1080p Promo Video with Sound</b></a>
 </p>
 
-> ⚡ **Speed & Performance Note:** The screenshot above demonstrates **Zero-Key Web Session AI** (`~9.7s` due to browser tab session bridge with zero API charges). When using direct fast cloud APIs like **Groq (~300ms)** or **Google Gemini 3.5 Flash-Lite**, form discovery, mapping, and DOM injection completes in just **1 to 2 seconds maximum**!
+> ⚡ **Speed & Performance Note:** The interactive demo video above demonstrates FastFiller's end-to-end workflow: 1-click discovery, transparent review modal, sequential DOM injection, and instant 1-click Undo. When paired with direct cloud APIs like **Groq (~300ms)** or **Google Gemini 3.5 Flash-Lite**, form completion executes in just **1 to 2 seconds maximum**!
 
 ---
 

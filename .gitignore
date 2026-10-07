@@ -12,6 +12,7 @@ Thumbs.db
 *.zip
 *.tar.gz
 *.mp4
+!assets/FastFiller_Promo.mp4
 dist/
 build/
 temp/
